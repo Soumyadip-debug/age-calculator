@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: aquamarine;
+    width: 300px;
+    margin: 95px auto 0;
+    height: 250px;
+    padding: 25px;
+    border-radius: 7px;
+}
+
+.box{
+    margin-top: 65px;
+    display: flex;
+    
+}
+
+.box input{
+    width: 150px;
+    padding: 10px;
+    border-radius: 7px;
+    border-style: none;
+}
+
+button{
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 7px;
+    border-style: none;
+    color: white;
+    background: rgb(234, 94, 1);
+}
